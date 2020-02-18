@@ -1,0 +1,9 @@
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\bin\Debug\ter_ver.exe
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\bin\Debug\ter_ver.pdb
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\obj\Debug\ter_ver.csprojResolveAssemblyReference.cache
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\obj\Debug\ter_ver.Form1.resources
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\obj\Debug\ter_ver.Properties.Resources.resources
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\obj\Debug\ter_ver.csproj.GenerateResource.Cache
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\obj\Debug\ter_ver.exe
+c:\users\hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\obj\Debug\ter_ver.pdb
+C:\Users\Hrewhwreh\documents\visual studio 2012\Projects\ter_ver\ter_ver\bin\Debug\ZedGraph.dll
